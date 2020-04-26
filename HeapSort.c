@@ -1,6 +1,6 @@
 /*
- * C Program to sort an array based on heap sort algorithm(MAX heap)
- */
+ * C Program:Sort a given set of elements using the heap sort method and 
+ * determine the time taken to sort the elements. */
 #include <stdio.h>
 
 void main()
